@@ -33,10 +33,8 @@ This repository provides company information and links to technology services. I
 To clone the repository, run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/zignuts-technolab.git
+git clone https://github.com/harshp-zigs/zignuts-technolab.git
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ## Official Website
 
